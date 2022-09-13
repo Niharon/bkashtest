@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Run using this command
+flutter run --no-sound-null-safety
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
