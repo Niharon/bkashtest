@@ -3,7 +3,9 @@
 A new Flutter project.
 
 # Run using this command
+```terminal
 flutter run --no-sound-null-safety
+```
 
 ## Getting Started
 
